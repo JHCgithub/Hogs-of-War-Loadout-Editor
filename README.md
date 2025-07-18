@@ -1,8 +1,10 @@
 # Hogs-of-War-Loadout-Editor
 A class/loadout editor for Hogs of War
 
-<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/f81b3f4c-8c9c-4346-b90c-3aa98da0bc66" />
-<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/c7b4c180-12e7-4914-a2c8-da642ed8909c" />
+
+<img width="360" height="240" alt="image" src="https://github.com/user-attachments/assets/f81b3f4c-8c9c-4346-b90c-3aa98da0bc66" />
+</br>
+<img width="360" height="240" alt="image" src="https://github.com/user-attachments/assets/c7b4c180-12e7-4914-a2c8-da642ed8909c" />
 
 
 This application alters the default loadout in Hogs of War
