@@ -1,6 +1,8 @@
 # Hogs-of-War-Loadout-Editor
 A class/loadout editor for Hogs of War
 
+Releases found on the right
+
 
 <img width="360" height="240" alt="image" src="https://github.com/user-attachments/assets/f81b3f4c-8c9c-4346-b90c-3aa98da0bc66" />
 </br>
