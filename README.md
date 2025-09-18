@@ -3,11 +3,13 @@ A class/loadout editor for Hogs of War
 
 Releases found on the right
 
-
+OLD:
 <img width="360" height="240" alt="image" src="https://github.com/user-attachments/assets/f81b3f4c-8c9c-4346-b90c-3aa98da0bc66" />
 </br>
+Current:
+<img width="2027" height="1413" alt="image" src="https://github.com/user-attachments/assets/eca4e47e-bb28-4f47-b64b-33c33692dc98" />
+</br>
 <img width="360" height="240" alt="image" src="https://github.com/user-attachments/assets/c7b4c180-12e7-4914-a2c8-da642ed8909c" />
-
 
 This application alters the default loadout in Hogs of War
 
